@@ -1,0 +1,2 @@
+/app/app.js:13:25 Replaced  >  with >= -> SURVIVED
+49 of 50 unignored mutations are tested (98%). 3 mutations were ignored.
